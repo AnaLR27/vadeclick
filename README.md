@@ -47,6 +47,6 @@
 
 ## 📦 Repositorios del proyecto
 
-- 🔗 [Frontend - Angular](https://github.com/AnaLR27/vadeclick-frontend)
+- 🔗 [Frontend - Angular](https://github.com/AnaLR27/vadeclick_frontend)
 - 🔗 [Backend - Node.js + Express](https://github.com/AnaLR27/vadeclick-backend)
 
